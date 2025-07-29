@@ -21,7 +21,7 @@ export default function Home() {
 
       <div className="flex justify-center md:justify-start gap-4">
         <a
-          href="/resume.pdf"  // here is the link for the download 
+          href="/resume.pdf"
           target="_blank"
          className="border border-[#bc5003] text-[#bc5003] px-6 py-2 rounded-full font-semibold hover:bg-[#bc5003] hover:text-white transition"
         >
