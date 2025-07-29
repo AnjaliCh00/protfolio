@@ -57,7 +57,7 @@ export default function Home() {
    <section id="about" className="bg-[#fdfaf5] py-24 px-6">
   <div className="max-w-5xl mx-auto grid md:grid-cols-2 items-center gap-16">
     
-    {/* Left Side: Text Content */}
+   
     <div>
       <h2 className="text-4xl sm:text-5xl font-extrabold text-[#1D3557] mb-6 leading-tight">
         About <span className="text-[#1D3557]]">Me</span>
@@ -128,7 +128,7 @@ export default function Home() {
           image: "/image/WhatsApp Image 2025-07-24 at 11.16.47 (1).jpeg",
           desc: "A Netflix clone built with HtML and CSS, featuring Aos animation design.",
           tech: ["HTML", "CSS", "Aos"],
-          demo: "festival-five-zeta.vercel.app",
+          demo: "https://netflixclone-pi-sooty.vercel.app/",
           code: "https://github.com/AnjaliCh00/NETFLIXCLONE.git",
         },
         {
@@ -136,7 +136,7 @@ export default function Home() {
           image: "/image/WhatsApp Image 2025-07-24 at 11.16.47.jpeg",
           desc: "A Croma.com clone showcasing e-commerce features with a responsive design.",
           tech: ["HTML", "CSS", "bootstrap",],
-          demo: "#",
+          demo: "https://croma-com.vercel.app/",
           code: "https://github.com/AnjaliCh00/croma.com.git",
         },
         {
@@ -144,7 +144,7 @@ export default function Home() {
           image: "/image/WhatsApp Image 2025-07-24 at 11.49.28.jpeg",
           desc: "A responsive e-commerce site showcasing products with a clean UI.",
           tech: ["React.js","HTML","JavaScript", "CSS"],
-          demo: "#",
+          demo: "https://mango-steel.vercel.app/",
           code: "https://github.com/AnjaliCh00/MANGO.git",
         },
         {
@@ -152,7 +152,7 @@ export default function Home() {
           image: "/image/WhatsApp Image 2025-07-24 at 11.49.27.jpeg",
           desc: "A coffee shop website with a modern design and smooth animations.",
           tech: ["React.js","HTML","JavaScript", "CSS"],
-          demo: "#",
+          demo: "https://coffee-blond-one.vercel.app/",
           code: "https://github.com/AnjaliCh00/coffee.git",
         },
         {
@@ -160,7 +160,7 @@ export default function Home() {
           image: "/image/WhatsApp Image 2025-07-24 at 11.17.02.jpeg",
           desc: "A traditional food website with a focus on cultural recipes and stories.",
           tech: ["Next.js", "Tailwind CSS", "TypeScript"],
-          demo: "#",
+          demo: "https://traditional-tau.vercel.app/",
           code: "https://github.com/AnjaliCh00/traditional.git",
         },
         {
@@ -168,7 +168,7 @@ export default function Home() {
           image: "/image/WhatsApp Image 2025-07-23 at 15.17.24.jpeg",
           desc: "A home decor website with a minimalist design and user-friendly navigation.",
           tech: ["Next.js", "Tailwind CSS", "TypeScript"],
-          demo: "#",
+          demo: "https://festival-five-zeta.vercel.app/",
           code: "https://github.com/AnjaliCh00/festival.git",
         },
       ].map((project, index) => (
