@@ -51,6 +51,10 @@ export default function Home() {
 
   </div>
 </section>
+
+
+
+
 <hr />
 {/* about the section */}
   
