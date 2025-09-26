@@ -126,39 +126,7 @@ export default function Home() {
 
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
       {[
-        {
-          
-          title: "Netfilx Clone",
-          image: "/image/WhatsApp Image 2025-07-24 at 11.16.47 (1).jpeg",
-          desc: "A Netflix clone built with HtML and CSS, featuring Aos animation design.",
-          tech: ["HTML", "CSS", "Aos"],
-          demo: "https://netflixclone-pi-sooty.vercel.app/",
-          code: "https://github.com/AnjaliCh00/NETFLIXCLONE.git",
-        },
-        {
-          title: "Croma.com Clone",
-          image: "/image/WhatsApp Image 2025-07-24 at 11.16.47.jpeg",
-          desc: "A Croma.com clone showcasing e-commerce features with a responsive design.",
-          tech: ["HTML", "CSS", "bootstrap",],
-          demo: "https://croma-com.vercel.app/",
-          code: "https://github.com/AnjaliCh00/croma.com.git",
-        },
-        {
-          title: "MANGO",
-          image: "/image/WhatsApp Image 2025-07-24 at 11.49.28.jpeg",
-          desc: "A responsive e-commerce site showcasing products with a clean UI.",
-          tech: ["React.js","HTML","JavaScript", "CSS"],
-          demo: "https://mango-steel.vercel.app/",
-          code: "https://github.com/AnjaliCh00/MANGO.git",
-        },
-        {
-          title: "CafeCoffee ",
-          image: "/image/WhatsApp Image 2025-07-24 at 11.49.27.jpeg",
-          desc: "A coffee shop website with a modern design and smooth animations.",
-          tech: ["React.js","HTML","JavaScript", "CSS"],
-          demo: "https://coffee-blond-one.vercel.app/",
-          code: "https://github.com/AnjaliCh00/coffee.git",
-        },
+       
         {
           title: "Traditional food ",
           image: "/image/WhatsApp Image 2025-07-24 at 11.17.02.jpeg",
