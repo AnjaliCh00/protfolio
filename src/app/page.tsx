@@ -126,7 +126,14 @@ export default function Home() {
 
     <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
       {[
-       
+       {
+          title: "Clothify  ",
+          image: "/image/clothify.images.jpg",
+          desc: "lothify is the shopping site where u can buy the products.",
+          tech: ["Next.js", "Tailwind CSS", "TypeScript"],
+          demo: " http://192.168.1.35:3001/",
+          code: "https://github.com/AnjaliCh00/dresses.git",
+        },
         {
           title: "Traditional food ",
           image: "/image/WhatsApp Image 2025-07-24 at 11.17.02.jpeg",
